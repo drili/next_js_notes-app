@@ -48,3 +48,8 @@ h1 {
 .navbar .create:hover {
     color: #000;
 }
+
+.form-container {
+    width: 400px;
+    margin: 20px auto;
+}
